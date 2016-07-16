@@ -61,7 +61,8 @@ PRODUCT_PACKAGES += \
     LMT \
     SlimOTA \
     Terminal \
-    WallpaperPicker
+    WallpaperPicker \
+    masquerade
 
 # APN list
 PRODUCT_COPY_FILES += \
